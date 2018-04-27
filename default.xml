@@ -16,7 +16,7 @@
   <default revision="refs/heads/cm-14.1"
            remote="github"
            sync-c="true"
-           sync-j="4" />
+           sync-j="2" />
 
   <remote  name="rr"
 	   fetch="https://github.com/ResurrectionRemix"
